@@ -1,0 +1,26 @@
+{
+"name": "reci-p2er3co-mme-ndation",
+"version": "1.0.0",
+"description": "PasswordVault is a secure digital vault that stores and manages passwords",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/hellerd1921/RecipeRecommendationApp.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "hellerd1921",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
